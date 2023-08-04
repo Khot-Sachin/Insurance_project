@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-02T17:00:10 IST" name="Default suite" finished-at="2023-08-02T17:00:32 IST" duration-ms="22149">
+    <groups>
+    </groups>
+    <test started-at="2023-08-02T17:00:10 IST" name="Default test" finished-at="2023-08-02T17:00:32 IST" duration-ms="22149">
+      <class name="Module1_test.testNG_testclass">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:Module1_test.testNG_testclass@7161d8d1]" started-at="2023-08-02T17:00:10 IST" name="openbrowser" finished-at="2023-08-02T17:00:18 IST" duration-ms="8600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:Module1_test.testNG_testclass@7161d8d1]" started-at="2023-08-02T17:00:18 IST" name="login" finished-at="2023-08-02T17:00:29 IST" duration-ms="10260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyemail_guru99()[pri:0, instance:Module1_test.testNG_testclass@7161d8d1]" started-at="2023-08-02T17:00:29 IST" name="verifyemail_guru99" finished-at="2023-08-02T17:00:30 IST" duration-ms="910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyemail_guru99 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Module1_test.testNG_testclass@7161d8d1]" started-at="2023-08-02T17:00:30 IST" name="logout" finished-at="2023-08-02T17:00:32 IST" duration-ms="2135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:Module1_test.testNG_testclass@7161d8d1]" started-at="2023-08-02T17:00:32 IST" name="closebrowser" finished-at="2023-08-02T17:00:32 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Module1_test.testNG_testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
